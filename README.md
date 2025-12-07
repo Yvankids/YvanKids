@@ -1,6 +1,5 @@
 # Hi, I'm Yvankids 👋
 
-<!-- Hero / header: change the image path to ./images/your-photo.png after you add an image in the repository -->
 <p align="left">
   <img width="140" src="./images/avatar.png" alt="Yvankids avatar" style="border-radius:50%;">
   <strong style="font-size:1.25rem; margin-left:12px">Yvan — Software Engineer • Open Source Enthusiast</strong>
@@ -68,7 +67,6 @@ Skills & Tools
 ---
 
 GitHub Stats
-<!-- Replace `Yvankids` with your username if you fork this template -->
 <p>
   <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Yvankids&show_icons=true&theme=default&hide_border=true">
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvankids&layout=compact&theme=default&hide_border=true">
@@ -79,4 +77,4 @@ Activity Graph
   <img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Yvankids&theme=github&area=true">
 </p>
 
-Thanks for reading — let's make your GitHub profile professional and memorable! 🚀
+Thanks for visiting my profile! 🚀
