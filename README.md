@@ -83,28 +83,14 @@ Software Engineer • Open Source Enthusiast • Full Stack Developer • Freela
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yvankids&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvankids&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
 
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yvankids&layout=compact&theme=dark&hide_border=false&langs_count=10)
-
-</td>
-<td width="50%" valign="top">
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yvankids&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-</td>
-</tr>
-</table>
-
-### GitHub Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Yvankids&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Yvankids&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 
 ## 🏆 GitHub Trophies
