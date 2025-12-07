@@ -66,15 +66,17 @@ Skills & Tools
 
 ---
 
-GitHub Stats
-<p>
-  <img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Yvankids&show_icons=true&theme=default&hide_border=true">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvankids&layout=compact&theme=default&hide_border=true">
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yvankids&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvankids&layout=compact&langs_count=8&theme=default&hide_border=true"/>
 </p>
 
-Activity Graph
-<p>
-  <img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Yvankids&theme=github&area=true">
+## 🔥 Activity Graph
+
+<p align="center">
+  <img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Yvankids&theme=github&area=true&hide_border=true"/>
 </p>
 
 Thanks for visiting my profile! 🚀
